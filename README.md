@@ -24,4 +24,9 @@ A fully functional and responsive Online Bookstore Web Application developed as 
 - **Tools:** Visual Studio Code, XAMPP
 
 ##  SnapShots
-D:\xampp2\htdocs\project\snapshots
+<img width="959" height="512" alt="Image" src="https://github.com/user-attachments/assets/694f9913-7aba-4ec3-bbef-eb9b0b6d77d7" />
+<img width="959" height="512" alt="Image" src="https://github.com/user-attachments/assets/ed330ae6-6d9d-4c39-992e-9e5e8af4afef" />
+<img width="959" height="476" alt="Image" src="https://github.com/user-attachments/assets/f002aa4d-7d83-48d6-8925-188479d8d6fe" />
+<img width="959" height="514" alt="Image" src="https://github.com/user-attachments/assets/7e69bf0f-91aa-4092-93f0-76840ac83696" />
+<img width="959" height="517" alt="Image" src="https://github.com/user-attachments/assets/06d2bf34-460b-46e9-993e-762eaecdb660" />
+<img width="959" height="515" alt="Image" src="https://github.com/user-attachments/assets/21e7d285-39c1-4053-a6e9-79769e6a61db" />
