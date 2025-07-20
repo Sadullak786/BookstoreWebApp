@@ -23,4 +23,5 @@ A fully functional and responsive Online Bookstore Web Application developed as 
 - **Database:** MySQL
 - **Tools:** Visual Studio Code, XAMPP
 
----
+##  SnapShots
+D:\xampp2\htdocs\project\snapshots
